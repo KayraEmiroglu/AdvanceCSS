@@ -1,0 +1,40 @@
+header{
+    background-color: red;
+    padding: 2rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+section.content{
+    display: flex;
+    min-height: 50vh;
+}
+
+main{
+    background-color: orange;
+    flex: 4 1 700px;
+    padding: 2rem;
+    flex-wrap: wrap;
+    display: flex;
+    gap: 2rem;
+}
+
+aside{
+    background-color: cadetblue;
+    flex: 1 1 300px;
+    padding: 1rem;
+}
+
+aside .kutu{
+    background-color: cornflowerblue;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+footer{
+    background-color: lightslategray;
+    display: flex;
+    justify-content: space-around;
+    padding: 2rem;
+    color: antiquewhite;
+}

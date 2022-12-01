@@ -1,0 +1,19 @@
+
+.inline{
+    display: inline;
+}
+.block{
+    display: block;
+}
+.inc-blc{
+    display: inline-block;
+}
+
+.hello{
+    background-color: aquamarine;
+    padding: 3rem;
+    display: inline-block;
+}
+.about{
+    display:none;
+}
